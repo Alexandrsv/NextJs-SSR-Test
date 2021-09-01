@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {"id":  1, "title":  "Пост про здоровье", "body": "s;lkjvklsdj s;dlkl;sdkf;lsdk askjdjklashdjkash ajshjkashjk kjas jkhsdjkhc"},
+    {"id":  2, "title":  "Пост про науку", "body": "sledvjkilsde s;dlkvl;dskv opwerioprie ksxcdvlkslkv"},
+    {"id":  3, "title":  "Пост про js", "body": "kwsdheuvk sd jsdfj lkfjdlkf jlkdfj klkl"}
+  ],
+  "about": {
+    "title": "Страница про нас"
+  }
+}
